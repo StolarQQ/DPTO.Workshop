@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPTO.Domain", "DPTO.Domain\DPTO.Domain.csproj", "{87544890-9840-4EC1-910D-E9F62228DD52}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPTO.Dto", "DPTO.Dto\DPTO.Dto.csproj", "{03F79290-3186-4FBF-AD19-4ABE4B0D2738}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPTO.Infrastructure", "DPTO.Infrastructure\DPTO.Infrastructure.csproj", "{D822EDA3-2E25-4F19-92AB-9F5FBC1F7D0F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPTO.ApplicationService", "DPTO.ApplicationService\DPTO.ApplicationService.csproj", "{4C89C362-A34A-4A2C-A079-90B822427F94}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPTO.API", "DPTO.API\DPTO.API.csproj", "{1EF6A8D5-4CFC-49D1-BC02-06F3946CDEAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPTO.Web", "DPTO.Web\DPTO.Web.csproj", "{68E13641-CEE5-4773-874E-0237D9F62331}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87544890-9840-4EC1-910D-E9F62228DD52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87544890-9840-4EC1-910D-E9F62228DD52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87544890-9840-4EC1-910D-E9F62228DD52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87544890-9840-4EC1-910D-E9F62228DD52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03F79290-3186-4FBF-AD19-4ABE4B0D2738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03F79290-3186-4FBF-AD19-4ABE4B0D2738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03F79290-3186-4FBF-AD19-4ABE4B0D2738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03F79290-3186-4FBF-AD19-4ABE4B0D2738}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D822EDA3-2E25-4F19-92AB-9F5FBC1F7D0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D822EDA3-2E25-4F19-92AB-9F5FBC1F7D0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D822EDA3-2E25-4F19-92AB-9F5FBC1F7D0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D822EDA3-2E25-4F19-92AB-9F5FBC1F7D0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C89C362-A34A-4A2C-A079-90B822427F94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C89C362-A34A-4A2C-A079-90B822427F94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C89C362-A34A-4A2C-A079-90B822427F94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C89C362-A34A-4A2C-A079-90B822427F94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EF6A8D5-4CFC-49D1-BC02-06F3946CDEAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EF6A8D5-4CFC-49D1-BC02-06F3946CDEAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EF6A8D5-4CFC-49D1-BC02-06F3946CDEAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EF6A8D5-4CFC-49D1-BC02-06F3946CDEAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68E13641-CEE5-4773-874E-0237D9F62331}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68E13641-CEE5-4773-874E-0237D9F62331}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68E13641-CEE5-4773-874E-0237D9F62331}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68E13641-CEE5-4773-874E-0237D9F62331}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7175B6E2-26E3-44D0-A966-FFAAC5A239C3}
+	EndGlobalSection
+EndGlobal
